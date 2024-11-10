@@ -1,6 +1,6 @@
 import React from "react";
 import { Upload, FileText, CheckCircle } from "lucide-react";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
 
 const DocumentManager = () => {
   const documents = ["Invoice.pdf", "Packing_List.pdf", "Certificate.pdf"];
